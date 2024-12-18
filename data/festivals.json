@@ -1,0 +1,54 @@
+{"festivals": [
+  {
+    "id": "gion-matsuri",
+    "name": "祇園祭",
+    "nameEn": "Gion Festival",
+    "region": {
+      "prefecture": "京都府",
+      "city": "京都市",
+      "location": {
+        "lat": 35.0035,
+        "lng": 135.7679
+      }
+    },
+    "dates": {
+      "start": "2024-07-01",
+      "end": "2024-07-31",
+      "isAnnual": true,
+      "monthDay": "7月1日",
+      "duration": "1ヶ月"
+    },
+    "category": ["神社祭り", "山鉾巡行"],
+    "significance": ["国重要無形民俗文化財", "京都三大祭"],
+    "mainVenue": "八坂神社",
+    "description": "日本三大祭の一つ。7月1日から1ヶ月間開催される京都最大の祭り。",
+    "officialLinks": ["https://www.gionmatsuri.or.jp/"],
+    "lastUpdated": "2024-12-18"
+  },
+  {
+    "id": "tenjin-matsuri",
+    "name": "天神祭",
+    "nameEn": "Tenjin Festival",
+    "region": {
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "location": {
+        "lat": 34.6937,
+        "lng": 135.5022
+      }
+    },
+    "dates": {
+      "start": "2024-07-24",
+      "end": "2024-07-25",
+      "isAnnual": true,
+      "monthDay": "7月24日",
+      "duration": "2日間"
+    },
+    "category": ["神社祭り", "船渡御"],
+    "significance": ["国重要無形民俗文化財", "日本三大祭"],
+    "mainVenue": "大阪天満宮",
+    "description": "日本三大祭の一つ。7月24日と25日に行われる大阪最大の祭り。",
+    "officialLinks": ["https://www.tenjinmatsuri.com/"],
+    "lastUpdated": "2024-12-18"
+  }
+]}
